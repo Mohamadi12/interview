@@ -15,7 +15,7 @@ const firebaseConfig = {
   storageBucket: "prepwise-bc237.firebasestorage.app",
   messagingSenderId: "522550020775",
   appId: "1:522550020775:web:07a5224ed89eaca620e982",
-  measurementId: "G-P29YB3MKNC"
+  measurementId: "G-P29YB3MKNC",
 };
 
 // Initialize Firebase
